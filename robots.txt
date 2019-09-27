@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooshaujohf.cnsdata.science/sitemap.xml
